@@ -1,5 +1,5 @@
 # sh_app_day08
 
-hello world
+你好张三
 
 死亡如风，常伴吾身
