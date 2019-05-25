@@ -1,5 +1,5 @@
 # sh_app_day08
 
-hello world
+hello 李四
 
 死亡如风，常伴吾身
